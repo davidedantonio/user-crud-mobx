@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 123333123,
+      "name": "Davide",
+      "surname": "D'Antonio",
+      "job": "programmer",
+      "birthDate": "1984-07-04 00:00:00",
+      "married": 1,
+      "gender": "M"
+    },
+    {
+      "name": "Davide",
+      "surname": "Capriglione",
+      "job": "engineer",
+      "birthDate": "2021-02-06T09:33:45.651Z",
+      "married": 1,
+      "gender": "M",
+      "id": 1612604049262
+    },
+    {
+      "name": "Mario",
+      "surname": "Rossiiiiii",
+      "job": "engineer",
+      "birthDate": "2021-02-21T09:35:00.000Z",
+      "married": 1,
+      "gender": "F",
+      "id": 1612604136688
+    }
+  ]
+}
